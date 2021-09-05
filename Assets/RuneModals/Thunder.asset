@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecb20772761a94cbeb325716137899f8, type: 3}
+  m_Name: Thunder
+  m_EditorClassIdentifier: 
+  _increamentalValue: 20
+  _castMagicPrice: 30
+  _damage: 25
+  _drawPattern:
+  - {fileID: 833480050372888099, guid: e5b272e464bbd413f9595ad76ae371c1, type: 3}
+  - {fileID: 6352756290533564581, guid: 4c45d099382c240858333ac12d0c57a7, type: 3}
+  - {fileID: 1172259905157831963, guid: 61be00825b45644f896054572a6ef091, type: 3}
+  - {fileID: 1992604476643100597, guid: ad5f38920bcba416ebc9013facc8c3d5, type: 3}
+  - {fileID: 6857520393628462140, guid: 922be263d364b4c678c21a45c6fbf66c, type: 3}
+  - {fileID: 4877383381902772462, guid: 8302a1e40ff6d4836aedcafcb64aa56b, type: 3}
+  - {fileID: 3538174375405589534, guid: 82859f88c5d5c4031880784c4e2894a7, type: 3}
+  - {fileID: 3108836343457967382, guid: b7028ed54d6484a2c9c7abd813ea6dc6, type: 3}

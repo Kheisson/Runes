@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecb20772761a94cbeb325716137899f8, type: 3}
+  m_Name: Heal Rune
+  m_EditorClassIdentifier: 
+  _increamentalValue: 20
+  _castMagicPrice: 50
+  _drawPattern:
+  - {fileID: 5073760691124347811, guid: 1469d5b4849f74ccb827f530f7cbbbd7, type: 3}
+  - {fileID: 3967825382668115890, guid: d3f0eb0a4b0af458da420185c9d4f836, type: 3}
+  - {fileID: 7018532866319041153, guid: e39283dfa21a0410cbe88a128560120b, type: 3}
+  - {fileID: 4877383381902772462, guid: 8302a1e40ff6d4836aedcafcb64aa56b, type: 3}
+  - {fileID: 7142705983180869873, guid: bad8f0dbf77154b3db1d626c769a5c20, type: 3}
+  - {fileID: 4276156154502916953, guid: 53c44a46c283d4038aecc95528f0e75f, type: 3}
